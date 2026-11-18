@@ -285,7 +285,7 @@ As part of this assessment, two standalone professional technical reports are pr
 
 ---
 
-## 🎯 Internship Interview Defense Points
+## 🎯 Key Technical Design Decisions
 
 When discussing this project during the technical interview, highlight these key design decisions:
 
